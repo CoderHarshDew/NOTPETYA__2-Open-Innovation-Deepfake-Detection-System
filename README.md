@@ -70,7 +70,6 @@ Deepfake technology is rapidly growing and causes several issues:
 
 main\
 │── Attribution.md   #Contains attribution to libraries and tech-stacks used\
-│── Presentation.pptx   #A presentation of our project\
 │── README.md\
 │── deepfake_detection_system_model.py       # CNN training code\
 │── deepfake_detection_system_web_app.py             # Streamlit app for predictions\
