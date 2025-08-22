@@ -1,6 +1,5 @@
 # NOTPETYA__2-Open-Innovation-Deepfake-Detection-System
-A **CNN-based Deepfake Detection System** built for **AlgoStorm 2k25**.  
-This project allows users to upload an image and verify whether it is **Real** or **Deepfake**, along with a **confidence score**.  
+A **Deepfake Detection System**, an open innovation project by **NOTPETYA__2**  
 
 ---
 
