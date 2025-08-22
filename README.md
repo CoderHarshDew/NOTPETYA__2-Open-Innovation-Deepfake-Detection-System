@@ -147,3 +147,8 @@ main\
 - Public awareness + media integration
 
 - Legal/ethical frameworks for misuse prevention
+
+
+## 🔗 Link to presentation
+
+[Google Drive](https://docs.google.com/presentation/d/1lrJjlc_5PTmBhEL7IW0vDNKQpJqjDJs4/edit?usp=sharing&ouid=116718382517231664761&rtpof=true&sd=true)
