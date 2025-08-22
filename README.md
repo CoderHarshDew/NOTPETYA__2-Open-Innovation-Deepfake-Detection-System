@@ -68,12 +68,14 @@ Deepfake technology is rapidly growing and causes several issues:
 
 ## 📂 Project Structure
 
-deepfake-detection\
-│── train_model.py       # CNN training code\
-│── app.py               # Streamlit app for predictions\
-│── deepfake_detection_system_model.h5   # Saved model\
-│── deepfake_detection_system_model.joblib # Metadata (class names, path)\
-│── README.md
+main\
+│── Attribution.md   #Contains attribution to libraries and tech-stacks used\
+│── Presentation.pptx   #A presentation of our project\
+│── README.md\
+│── deepfake_detection_system_model.py       # CNN training code\
+│── deepfake_detection_system_web_app.py             # Streamlit app for predictions\
+│── requirements.txt   #A file of requirements\
+
 
 ## 🧠 Model Training (CNN)
 
