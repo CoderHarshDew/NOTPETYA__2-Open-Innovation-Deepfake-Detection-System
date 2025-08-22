@@ -35,7 +35,7 @@ if uploaded_file is not None:
 
     #Display uploaded image
     img = Image.open(uploaded_file).convert("RGB")
-    st.image(img, caption="Uploaded Image", use_column_width=True)
+    st.image(img, caption="Uploaded Image", use_container_width=True)
 
     #Preprocessint image to make it usable by the model
     img = img.resize((128, 128))
@@ -52,4 +52,5 @@ if uploaded_file is not None:
     # Display result
     st.subheader("🔍 Prediction Result:")
     st.write(f"**Class:** {predicted_class}")
+
     st.write(f"**Confidence:** {confidence*100:.2f}%")
