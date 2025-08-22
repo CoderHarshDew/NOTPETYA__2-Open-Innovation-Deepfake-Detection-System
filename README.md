@@ -42,7 +42,7 @@ Deepfake technology is rapidly growing and causes several issues:
 - **Language**: Python  
 - **Frameworks**: TensorFlow, Keras, Streamlit  
 - **Libraries**: NumPy, Scikit-learn, Matplotlib, Seaborn, Joblib, PIL  
-- **Dataset**: Self-made dataset (Real vs Fake images)  
+- **Dataset**: Self-made dataset (Real vs Fake images) — not publicly shared due to privacy reasons
 
 ---
 
