@@ -73,7 +73,7 @@ main\
 │── README.md\
 │── deepfake_detection_system_model.py       # CNN training code\
 │── deepfake_detection_system_web_app.py             # Streamlit app for predictions\
-│── requirements.txt   #A file of requirements\
+│── requirements.txt   #A file of requirements
 
 
 ## 🧠 Model Training (CNN)
